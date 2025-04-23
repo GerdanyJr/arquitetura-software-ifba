@@ -1,9 +1,9 @@
-package br.edu.ifba.ncamadas.apresentacao;
+package br.edu.ifba.mvc.controlador;
 
 import java.util.Scanner;
 import java.util.function.Consumer;
 
-import br.edu.ifba.ncamadas.modelo.Usuario;
+import br.edu.ifba.mvc.modelo.Usuario;
 
 public class FormularioUsuario implements Formulario<Usuario> {
 
